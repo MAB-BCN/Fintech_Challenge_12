@@ -30,3 +30,4 @@ We then created a Logistic Regression Model with the Original Data and printed t
 ![image](https://user-images.githubusercontent.com/111457110/213896311-4a76afe7-a9be-423f-aa32-c050bb61bf6e.png)
 
 By reading the scores, we determined that due to the large imbalance between the 0 (healthy loan) and 1 (high-risk loan) was so large, that we needed to resamble the data and oversize the high-risk loan data to see if the predictions were more balanced and thus accurate to use.
+![image](https://user-images.githubusercontent.com/111457110/213896434-8c579895-0081-4f1e-b3f6-3c065d68776c.png)
